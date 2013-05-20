@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- portrait -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_height="fill_parent"
+  android:layout_width="fill_parent">
+  
+  <TextView style="@style/TextView01.Default"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"  
+    android:text="@string/activity_label_middle"/>
+             
+  <Button
+    android:id="@+id/buttonNext01"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"  
+    android:text="@string/button_next"/>
+    
+  <Button
+    android:id="@+id/buttonBack01"
+    android:layout_height="wrap_content"
+    android:layout_width="fill_parent"  
+    android:text="@string/button_back"/>
+
+  <TextView style="@style/TextView01.Default"
+    android:id="@+id/textView01"
+    android:layout_height="wrap_content" 
+    android:layout_width="fill_parent"/>
+
+  <ImageView
+    android:id="@+id/imageView1"
+    android:src="@drawable/image000"
+    android:contentDescription="@string/content_description"
+    android:layout_height="150dip"
+    android:layout_width="150dip" />
+</LinearLayout>

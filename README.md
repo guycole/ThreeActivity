@@ -1,4 +1,4 @@
 ThreeActivity
 =============
 
-Android Demonstration - Multiple Activity Navigation
+Three Activity Android Demonstration

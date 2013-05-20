@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="hello">Hello World, ThreeActivity!</string>
+  <string name="app_name">ThreeActivity</string>
+  <string name="activity_label_end">End Activity</string>
+  <string name="activity_label_main">Main Activity</string>
+  <string name="activity_label_middle">Middle Activity</string>
+  
+  <string name="button_back">Last Activity</string>
+  <string name="button_browser">Browser Activity</string>
+  <string name="button_end">End Activity</string>
+  <string name="button_next">Next Activity</string>
+  
+  <string name="content_description">Content Description</string>
+  
+  <string name="hint">Type Here</string>
+  
+  <string name="menu_settings">Settings</string>
+</resources>
