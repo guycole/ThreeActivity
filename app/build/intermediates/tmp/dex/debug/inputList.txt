@@ -1,0 +1,5 @@
+/Users/gsc/AndroidStudioProjects/ThreeActivity/app/build/intermediates/classes/debug
+/Users/gsc/AndroidStudioProjects/ThreeActivity/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-f2ff0e0cfe04528d7c1637d3f9121db9fc9cc55d.jar
+/Users/gsc/AndroidStudioProjects/ThreeActivity/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-13af8123ac5b77f6699ff7bf9078fe3c4eb0feb6.jar
+/Users/gsc/AndroidStudioProjects/ThreeActivity/app/build/intermediates/pre-dexed/debug/classes-3c33e4b0bb26e9fca6c33adff8b12469d1fd315d.jar
+/Users/gsc/AndroidStudioProjects/ThreeActivity/app/build/intermediates/pre-dexed/debug/classes-063a571f71d71dea8c6fee227d3e115f60b4a430.jar

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="three_activity.digiburo.com.threeactivity.test">
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="three_activity.digiburo.com.threeactivity"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for three_activity.digiburo.com.threeactivity"/>
+</manifest>
