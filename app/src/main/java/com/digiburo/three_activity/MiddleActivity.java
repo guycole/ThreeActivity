@@ -1,8 +1,8 @@
 package com.digiburo.three_activity;
 
 import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -20,7 +20,8 @@ import android.widget.TextView;
  * <LI> note that background image selection depends upon platform
  * </UL>
  */
-public class MiddleActivity extends ActionBarActivity {
+public class MiddleActivity extends AppCompatActivity {
+
     public final String LOG_TAG = getClass().getName();
 
     public static final String MIDDLE_ACTIVITY_ACTION = "MiddleActivityAction";

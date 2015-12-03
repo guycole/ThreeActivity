@@ -1,11 +1,9 @@
 package com.digiburo.three_activity;
 
 import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -19,7 +17,7 @@ import android.widget.EditText;
  * <LI> illustrate sending arguments via intent (accept and return)
  * </UL>
  */
-public class EndActivity extends ActionBarActivity {
+public class EndActivity extends AppCompatActivity {
     public final String LOG_TAG = getClass().getName();
 
     public static final String END_ACTIVITY_ACTION = "EndActivityAction";

@@ -1,15 +1,14 @@
 package com.digiburo.three_activity;
 
 import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.webkit.WebView;
 import android.widget.Button;
 
-
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends AppCompatActivity {
     public final String LOG_TAG = getClass().getName();
 
     @Override
