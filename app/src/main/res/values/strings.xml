@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <resources>
-
     <string name="app_name">ThreeActivity</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_middle">MiddleActivity</string>
-    <string name="title_activity_end">EndActivity</string>
 
+    <string name="button_last">Last</string>
+    <string name="button_next">Next</string>
+
+    <string name="hint">type here</string>
+
+    <string name="image_description">Adorable Puppy</string>
+
+    <string name="title_end">End Title</string>
+    <string name="title_main">Main Title</string>
+    <string name="title_middle">Middle Title</string>
+
+    <string name="welcome_end">Welcome to EndActivity</string>
+    <string name="welcome_main">Welcome to MainActivity</string>
+    <string name="welcome_middle">Welcome to MiddleActivity</string>
 </resources>
